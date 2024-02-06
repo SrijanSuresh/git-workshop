@@ -6,6 +6,7 @@ int main()
 {
 
     cout << "Git works" << endl;
+    cout << "modifiy";
 
     return 0;
 }
